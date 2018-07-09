@@ -1,0 +1,243 @@
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Stream name iskinesis_demo_localstack
+INFO:root:Number of shards is1
+INFO:root:Do we create a stream?True
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Stream name iskinesis_demo_localstack
+INFO:root:Number of shards is1
+INFO:root:Do we create a stream?True
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Stream name iskinesis_demo_localstack
+INFO:root:Number of shards is1
+INFO:root:Do we create a stream?True
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Stream name iskinesis_demo_localstack
+INFO:root:Number of shards is1
+INFO:root:Do we create a stream?True
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Stream name iskinesis_demo_localstack
+INFO:root:Number of shards is1
+INFO:root:Do we create a stream?True
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Stream name iskinesis_demo_localstack
+INFO:root:Number of shards is1
+INFO:root:Do we create a stream?True
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Do we create a lambda function? True
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Deleted function process_kinesis
+INFO:root:Successfully read the ZIP file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Successfully created the lambda function
+INFO:root:Do we create a stream? True
+INFO:root:Stream name is kinesis_demo_localstack
+INFO:root:Number of shards is 1
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Found a lambda function with nameprocess_kinesis
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Do we create a lambda function? True
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Deleted function process_kinesis
+INFO:root:Successfully read the ZIP file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Successfully created the lambda function
+INFO:root:Do we create a stream? True
+INFO:root:Stream name is kinesis_demo_localstack
+INFO:root:Number of shards is 1
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Found a lambda function with nameprocess_kinesis
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Created the mapping between lambda function process_kinesis and kinesis stream kinesis_demo_localstack
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Do we create a lambda function? True
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Deleted function process_kinesis
+INFO:root:Successfully read the ZIP file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Successfully created the lambda function
+INFO:root:Do we create a stream? True
+INFO:root:Stream name is kinesis_demo_localstack
+INFO:root:Number of shards is 1
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Found a lambda function with nameprocess_kinesis
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Created the mapping between lambda function process_kinesis and kinesis stream kinesis_demo_localstack
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Deleted function process_kinesis
+INFO:root:Successfully read the ZIP file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Successfully created the lambda function
+INFO:root:Number of shards is 1
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Found a lambda function with nameprocess_kinesis
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Created the mapping between lambda function process_kinesis and kinesis stream kinesis_demo_localstack
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Deleted function process_kinesis
+INFO:root:Successfully read the ZIP file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Successfully created the lambda function
+INFO:root:Number of shards is 1
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Found a lambda function with nameprocess_kinesis
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Created the mapping between lambda function process_kinesis and kinesis stream kinesis_demo_localstack
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Deleted function process_kinesis
+INFO:root:Successfully read the ZIP file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Successfully created the lambda function
+INFO:root:Number of shards is 1
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Found a lambda function with nameprocess_kinesis
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Created the mapping between lambda function process_kinesis and kinesis stream kinesis_demo_localstack
+INFO:root:Read config file
+INFO:root:Config content is
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Deleted function process_kinesis
+INFO:root:Successfully read the ZIP file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Successfully created the lambda function
+INFO:root:Number of shards is 1
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): localhost
+INFO:root:Found an existing stream with namekinesis_demo_localstack
+INFO:root:Deleted the existing stream with namekinesis_demo_localstack
+INFO:root:Created a new stream
+INFO:root:Received the ARN of the stream:arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack
+INFO:root:Wrote the ARN to config file
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Found a lambda function with nameprocess_kinesis
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: localhost
+INFO:root:Created the mapping between lambda function process_kinesis and kinesis stream kinesis_demo_localstack

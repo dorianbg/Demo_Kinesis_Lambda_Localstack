@@ -1,0 +1,1 @@
+{"Records": [{"eventID": "shardId-000000000000:49585698737263240571464493910988560669990126942288871426", "eventSourceARN": "arn:aws:kinesis:us-east-1:000000000000:stream/kinesis_demo_localstack", "kinesis": {"data": "NDk5", "partitionKey": "key1", "sequenceNumber": "49585698737263240571464493910988560669990126942288871426"}}]}
